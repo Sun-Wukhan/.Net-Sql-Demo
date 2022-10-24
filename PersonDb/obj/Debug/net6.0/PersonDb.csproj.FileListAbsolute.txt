@@ -1,0 +1,15 @@
+/Users/navid/Projects/Achilles_Navid_Demo/PersonDb/bin/Debug/net6.0/PersonDb.deps.json
+/Users/navid/Projects/Achilles_Navid_Demo/PersonDb/bin/Debug/net6.0/PersonDb.dll
+/Users/navid/Projects/Achilles_Navid_Demo/PersonDb/bin/Debug/net6.0/PersonDb.pdb
+/Users/navid/Projects/Achilles_Navid_Demo/PersonDb/bin/Debug/net6.0/Models.dll
+/Users/navid/Projects/Achilles_Navid_Demo/PersonDb/bin/Debug/net6.0/Models.pdb
+/Users/navid/Projects/Achilles_Navid_Demo/PersonDb/obj/Debug/net6.0/PersonDb.csproj.AssemblyReference.cache
+/Users/navid/Projects/Achilles_Navid_Demo/PersonDb/obj/Debug/net6.0/PersonDb.GeneratedMSBuildEditorConfig.editorconfig
+/Users/navid/Projects/Achilles_Navid_Demo/PersonDb/obj/Debug/net6.0/PersonDb.AssemblyInfoInputs.cache
+/Users/navid/Projects/Achilles_Navid_Demo/PersonDb/obj/Debug/net6.0/PersonDb.AssemblyInfo.cs
+/Users/navid/Projects/Achilles_Navid_Demo/PersonDb/obj/Debug/net6.0/PersonDb.csproj.CoreCompileInputs.cache
+/Users/navid/Projects/Achilles_Navid_Demo/PersonDb/obj/Debug/net6.0/PersonDb.csproj.CopyComplete
+/Users/navid/Projects/Achilles_Navid_Demo/PersonDb/obj/Debug/net6.0/PersonDb.dll
+/Users/navid/Projects/Achilles_Navid_Demo/PersonDb/obj/Debug/net6.0/refint/PersonDb.dll
+/Users/navid/Projects/Achilles_Navid_Demo/PersonDb/obj/Debug/net6.0/PersonDb.pdb
+/Users/navid/Projects/Achilles_Navid_Demo/PersonDb/obj/Debug/net6.0/ref/PersonDb.dll

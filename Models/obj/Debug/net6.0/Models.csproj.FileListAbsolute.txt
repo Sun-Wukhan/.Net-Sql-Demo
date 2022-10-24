@@ -1,0 +1,12 @@
+/Users/navid/Projects/Achilles_Navid_Demo/Models/bin/Debug/net6.0/Models.deps.json
+/Users/navid/Projects/Achilles_Navid_Demo/Models/bin/Debug/net6.0/Models.dll
+/Users/navid/Projects/Achilles_Navid_Demo/Models/bin/Debug/net6.0/Models.pdb
+/Users/navid/Projects/Achilles_Navid_Demo/Models/obj/Debug/net6.0/Models.csproj.AssemblyReference.cache
+/Users/navid/Projects/Achilles_Navid_Demo/Models/obj/Debug/net6.0/Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/navid/Projects/Achilles_Navid_Demo/Models/obj/Debug/net6.0/Models.AssemblyInfoInputs.cache
+/Users/navid/Projects/Achilles_Navid_Demo/Models/obj/Debug/net6.0/Models.AssemblyInfo.cs
+/Users/navid/Projects/Achilles_Navid_Demo/Models/obj/Debug/net6.0/Models.csproj.CoreCompileInputs.cache
+/Users/navid/Projects/Achilles_Navid_Demo/Models/obj/Debug/net6.0/Models.dll
+/Users/navid/Projects/Achilles_Navid_Demo/Models/obj/Debug/net6.0/refint/Models.dll
+/Users/navid/Projects/Achilles_Navid_Demo/Models/obj/Debug/net6.0/Models.pdb
+/Users/navid/Projects/Achilles_Navid_Demo/Models/obj/Debug/net6.0/ref/Models.dll
